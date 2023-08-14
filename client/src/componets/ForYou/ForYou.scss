@@ -1,0 +1,17 @@
+.forYou {
+    margin: 100px 200px;
+
+    .top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+
+    .bottom {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+
+    }
+}
